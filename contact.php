@@ -9,7 +9,7 @@
  * /contact.php
  *
 */
-/* TEST GIT */
+/* COBA PUSH */
 require_once("class2.php");
 //define('e_HANDLER', "e107_handlers/");
 // security image may be disabled by removing the appropriate shortcodes from the template.
